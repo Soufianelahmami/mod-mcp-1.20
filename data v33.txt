@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Decompilation: MCP allows developers to decompile the Minecraft Java Edition code into a more human-readable and workable format ",
+   "photo1":"https://iili.io/J94HhEN.webp"},
+  {"desc2":"Mod Development: Modders use MCP to develop and maintain their mods. It provides the essential tools and mappings necessary to make modifications compatible with specific Minecraft versions","photo2":"https://iili.io/J94HXBp.webp"},
+  {"desc3":"Compatibility: Minecraft is known for its frequent updates, which can break existing mods. MCP helps modders quickly update their creations to ensure they remain compatible with the latest version of the game, reducing downtime for players who enjoy modded Minecraft","photo3":"https://iili.io/J94Hj4I.webp"},
+  {"desc4":"Community Collaboration: MCP fosters collaboration within the modding community. Modders often work together to share knowledge, resources, and best practices, resulting in a diverse array of mods that cater to different player preferences","photo4":"https://iili.io/J94HVQR.webp"},
+  {"desc5":"Decompilation: The first step involves decompiling the Minecraft Java Edition source code using MCP. This process generates a set of mappings that link the obfuscated game code to its human-readable counterparts","photo5":"https://iili.io/J94HN2t.webp"},
+  {"descd":"Mod Development: With the decompiled code and mappings at hand, modders can start developing their custom modifications. This involves writing new code, altering existing code, or introducing new assets like textures, models, and sounds","photod":"https://iili.io/J94HOYX.webp"}
    ]
  
 }
